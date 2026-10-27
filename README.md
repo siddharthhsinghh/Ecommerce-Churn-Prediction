@@ -2,12 +2,12 @@
 
 End-to-end churn prediction on the Olist Brazilian e-commerce dataset, covering SQL-based, leakage-safe feature engineering, cohort analysis, cost-based threshold selection, SHAP interpretability, and a Streamlit demo.
 
-> **Status:** 🚧 In progress. See [Roadmap](#roadmap).
+> **Status:** 🚧 In progress.
 
 ---
 
 ## 1. Business Problem
-[2-3 sentences: who loses money when customers don't return, what action a prediction would trigger (e.g., targeted discount, win-back email), and why early identification matters.]
+[who loses money when customers don't return, what action a prediction would trigger (e.g., targeted discount, win-back email), and why early identification matters.]
 
 ## 2. Churn Definition
 - **Unit of analysis:** one row per customer (`customer_unique_id`)
